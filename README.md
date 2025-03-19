@@ -14,7 +14,7 @@ This is a simple Android app built using Jetpack Compose. It allows users to che
 
 **Installation**
 Clone this repository:
-git clone https://github.com/cannyTeejay/LabEqCheck.git
+git clone https://github.com/cannyTeejay/Lab-Equipment-Check-App.git
 
 -Open the project in Android Studio.
 -Build and run the project on an Android device or emulator.
